@@ -1,0 +1,2 @@
+USERNAME = 'senajohn855'
+PASSWORD = 'UR57hNjSwSziPY'

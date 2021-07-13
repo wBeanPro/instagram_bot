@@ -1,0 +1,4 @@
+1. Install Firefox
+2. Install python
+3. Open Terminal > move to script directory > input command "pip install -r requirements.txt" or "pip3 install -r requirements.txt"
+4. input command "py main.py" or "python3 main.py"
